@@ -1,2 +1,3 @@
-# HoneyPot-EMProto
-Ruche connectée - Protoype v 0.1
+# HoneyPot Ressources
+- Heroku Base files
+- Material Dashboard files
